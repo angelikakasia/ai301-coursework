@@ -7,12 +7,10 @@
 https://github.com/precogly/precogly/issues/557
 
 **Verdict output**
-
-```text
-PASTE THE ACTUAL LIVE-MODE OUTPUT FROM YOUR SKILL HERE.
-
-IMPORTANT: This must be pasted verbatim and must end with the fenced JSON block showing "verdict": "accept".
-```
+{
+  "item": "https://github.com/precogly/precogly/issues/557",
+  "verdict": "accept"
+}
 
 ---
 
